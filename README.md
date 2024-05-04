@@ -2,7 +2,8 @@
 CVE Update
 ---
 | CVE ID               | Description| CVSS 3.0  |       CVE MITRE           |       NVD           | 
-| -------------------- | --------- | --------- | -------------------------| --------------------| 
+| -------------------- | --------- | --------- | -------------------------| --------------------|
+| CVE-2024-34061  | changedetection.io Cross-site Scripting vulnerability version <=v0.45.21 | 4.3 | https://github.com/advisories/GHSA-pwgc-w4x9-gw67 |
 | CVE-2021-46253  | XSS v.0.12.7 store in archor cms | 5.4 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-46253 | https://nvd.nist.gov/vuln/detail/CVE-2021-46253 |
 | CVE-2021-46458  | Victor CMS v1.0 was discovered to contain a SQL injection vulnerability in the component admin/posts.php?source=add_post. This vulnerability can be exploited through a crafted POST request via the post_title parameter. | 7.5 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-46458 | https://nvd.nist.gov/vuln/detail/CVE-2021-46458 |
 | CVE-2021-46459  | Victor CMS v1.0 was discovered to contain multiple SQL injection vulnerabilities in the component admin/users.php?source=add_user. These vulnerabilities can be exploited through a crafted POST request via the user_name, user_firstname,user_lastname, or user_email parameters. | 7.5 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-46459 | https://nvd.nist.gov/vuln/detail/CVE-2021-46459 |
